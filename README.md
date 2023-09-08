@@ -7,7 +7,6 @@
 
 #### Project
 1. JavaFX를 활용한 GUI 응용 어플리케인션 구현, Socket 통신을 활용하여 TCP/IP 통신 프로그램 제작
-   
 - Server: https://github.com/hyejeongspace/mafia_project_Server
 - client: https://github.com/hyejeongspace/mafia_project_client
 
