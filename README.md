@@ -10,7 +10,7 @@
 - Server: https://github.com/hyejeongspace/mafia_project_Server
 - client: https://github.com/hyejeongspace/mafia_project_client
 
-3. 웹페이지 개발
+2. 웹페이지 개발
 - git : https://github.com/hyejeongspace/final_project
 - 웹페이지 주소 : http://13.124.134.101:8080/project/
 <!--
